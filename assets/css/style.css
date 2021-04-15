@@ -1,0 +1,354 @@
+body {
+    background-color: #E5E5E5;
+    margin: 0px;
+}
+
+.FakeBox {
+    width: 1366px;
+    margin: auto;
+    position: relative;
+    background-color:white;
+}
+
+.GirlImg {
+    text-align: center;
+    height: 722px;
+    width: 1366px;
+    left: 0px;
+    top: 47px;
+    border-radius: 0px;
+}
+
+.RecTop {
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 1366px;
+    height: 92.51px;
+    left: 0px;
+    top: 0px;
+}
+
+.VidoeBox {
+    width: 1366px;
+    height: 722px;
+}
+
+/* Top objects*/
+#SparkleHearth {
+    position: absolute;
+    height: 146px;
+    width: 159px;
+    top: -50px;
+    border-radius: 0px;
+    z-index:3; /* Allows chaning object stacking position*/
+}
+
+#Ideja {
+    position: absolute;
+    width: 46px;
+    height: 24px;
+    left: 305px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#PiesakiSapni {
+    position: absolute;
+    width: 130px;
+    height: 24px;
+    left: 386px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#Uzņēmējiem {
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    left: 543px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#SapņuBanka {
+    position: absolute;
+    width: 123px;
+    height: 45px;
+    left: 698px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#SapņusAtbalsta {
+    position: absolute;
+    width: 153px;
+    height: 45px;
+    left: 856px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#Stasti {
+    position: absolute;
+    width: 188px;
+    height: 29px;
+    left: 1036px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+#LV {
+    position: absolute;
+    width: 29px;
+    height: 29px;
+    left: 1275px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #060606;
+}
+
+/* The Rip???*/
+
+#TopRip {
+    position: relative;
+    left: -0.00%;
+    right: 0%;
+    top: -90.5%;
+    bottom: 96.71%;
+    background: #FFFFFF;
+}
+
+#VideoOfAGirl {
+    position:initial;
+    width: 1366px;
+    height: 722px;
+    left: 0px;
+    top: 47px;
+}
+
+#TextWall {
+    position: absolute;
+    width: 654px;
+    height: 114px;
+    left: 359px;
+    top: 919px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+/* Bunch of images*/
+
+#Zanda_1 {
+    position: absolute;
+    width: 328px;
+    height: 355px;
+    left: 0px;
+    top: 1197px;
+}
+
+#Sibbila_4 {
+    position: absolute;
+    width: 334px;
+    height: 364px;
+    left: 328px;
+    top: 1202px;
+}
+
+#PeopleWithFlowers {
+    position: absolute;
+    width: 298px;
+    height: 180px;
+    left: 662px;
+    top: 1202px;
+}
+
+#Alina_1 {
+    position: absolute;
+    width: 298px;
+    height: 184px;
+    left: 662px;
+    top: 1382px;
+}
+
+#Anda_2 {
+    position: absolute;
+    width: 406px;
+    height: 383px;
+    left: 960px;
+    top: 1183px;
+}
+
+#Text1 {
+    position: absolute;
+    width: 394px;
+    height: 29px;
+    left: 220px;
+    top: 1731px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+#Text2 {
+    position: absolute;
+    width: 500px;
+    height: 29px;
+    left: 698px;
+    top: 1731px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+#Text3 {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 300px;
+    top: 1810px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#Text4 {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 832px;
+    top: 1810px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/*body {
+    background-color: #E5E5E5;
+}
+
+.FakeBox {
+    width: 1366px;
+    margin: auto;
+    position: relative;
+    background-color: #E5E5E5;
+}
+
+p {
+    text-align: center;
+}
+
+.GirlImg {
+    text-align: center;
+    height: 722px;
+    width: 1366px;
+    left: 0px;
+    top: 47px;
+    border-radius: 0px;
+}
+
+#SparkleHearth {
+    position: absolute;
+    height: 146px;
+    width: 159px;
+    top: -50px;
+    border-radius: 0px;
+}
+
+.why {
+    
+}
+
+.TextBox {
+    top: 150px;
+    bottom: 150px;
+}
+
+.TextWall {
+    position: absolute;
+    width: 654px;
+    height: 114px;
+    left: 359px;
+    top: 919px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.RecTop {
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 1366px;
+    height: 92.51px;
+    left: 0px;
+    top: 0px;
+    padding-bottom: 10px;
+}
+    */
+
+
+
+
+
